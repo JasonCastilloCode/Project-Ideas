@@ -9,6 +9,7 @@ I’m just exhausted having like 3 to 5 apps doing different things.
 3.	Grade Calculator
 4.	Thoughts/Journal
 5.	Reminders
-6.	Food Budgeting/Meal Planning/restaurants near me
+6.	Calendar
+7.	Food Budgeting/Meal Planning/restaurants near me
 
 
