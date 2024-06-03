@@ -12,10 +12,3 @@ I’m just exhausted having like 3 to 5 apps doing different things.
 6.	Food Budgeting/Meal Planning/restaurants near me
 
 
-Domestic pets (Dogs and Cats) (Mostly Dogs since I have two) (Help newly dog owners or soon to be dog owners)
-1. Tips
-2. Adoption center
-3. Haircut
-4. veterinarian location
-5. Foods/Medication/Rest
-
