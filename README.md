@@ -17,11 +17,11 @@ I’m just exhausted having like 3 to 5 apps doing different things.
 
 
 Domestic pets (Dogs and Cats) (Mostly Dogs since I have two) (Help newly dog owners or soon to be dog owners)
--	Tips
--	Adoption center 
--	Haircut
--	veterinarian location 
--	Foods/Medication/Rest
+1. Tips
+2. Adoption center
+3. Haircut
+4. veterinarian location
+5. Foods/Medication/Rest
 
 
-Other ideas Foods and  Sport (Futbol)
+Other ideas Foods and Sport (Futbol)
