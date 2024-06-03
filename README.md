@@ -8,12 +8,8 @@ I’m just exhausted having like 3 to 5 apps doing different things.
 2.	To-Do
 3.	Student Calculator
 4.	Thoughts/Journal
-5.	Schedule Building
-6.	Every time open the website it shows a newly added motivation quote.
-7.	Reminders
-8.	Improvements Tabs (Communication/Habits/Financial/Problem Solving).
-9.	Food Budgeting/Meal Planning/restaurants near me
-10.	Reminders of things I enjoy, for example. Podcasts, Anime, Video games, Food, etc.
+5.	Reminders
+6.	Food Budgeting/Meal Planning/restaurants near me
 
 
 Domestic pets (Dogs and Cats) (Mostly Dogs since I have two) (Help newly dog owners or soon to be dog owners)
