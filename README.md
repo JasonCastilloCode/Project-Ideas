@@ -19,5 +19,3 @@ Domestic pets (Dogs and Cats) (Mostly Dogs since I have two) (Help newly dog own
 4. veterinarian location
 5. Foods/Medication/Rest
 
-
-Other ideas Foods and Sport (Futbol)
